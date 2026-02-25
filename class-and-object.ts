@@ -21,6 +21,8 @@
   //   cat.makeSound();
   //   dog.makeSound();
 
+  //using 
+
   //using parameter properties it makes easier
   class Animal {
     //creating constructor
